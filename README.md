@@ -1,2 +1,2 @@
 # turingmachine
-Implementation of Turing Machines in jFlap Software 
+Implementation of Turing Machines in Jflap Software 
